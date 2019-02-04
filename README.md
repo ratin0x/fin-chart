@@ -1,5 +1,14 @@
 # fin-chart
 
+## Before You Start
+This project supplies an `.nvmrc` file for use with [Node Version Manager](https://github.com/creationix/nvm)
+
+```
+nvm use
+```
+
+will ensure you are using the correct versions of NodeJS and NPM.
+
 ## Project setup
 ```
 npm install
